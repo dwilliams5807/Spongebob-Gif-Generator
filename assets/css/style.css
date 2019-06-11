@@ -1,0 +1,19 @@
+#pagetitle {
+    text-align: center;
+    color: Black;
+    
+}
+
+.app {
+    background-image: url("../images/spongebob.png");
+}
+
+
+.gifImage {
+    
+
+}
+
+.page-header {
+    background-color: rgb(136, 80, 30);
+}
