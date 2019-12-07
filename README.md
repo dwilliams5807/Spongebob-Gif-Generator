@@ -4,6 +4,7 @@ Yanks a bunch of Gifs from Giphy's API and brings them to us. Setup with some sp
 
 ## Technologies Used
 * JavaScript
+* Axios
 * HTML
 * CSS
 
